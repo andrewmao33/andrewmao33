@@ -7,5 +7,5 @@ Previous Experience:
 - Software Development Engineer Intern @ Amazon
 - Software Engineer Intern @ John Deere
 - Software Engineer Intern @ Coherent Corp.
-  
-Personal Website: [andmao.com](https://andmao.com)
+
+[andmao.com](https://andmao.com)
