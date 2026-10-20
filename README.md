@@ -1,6 +1,6 @@
 ## Andrew Mao
 
-Currently MCS @ UIUC, previously BS in Statistics & Computer Science @ UIUC. Interested in intentional software and quantitative development.
+Currently MCS @ UIUC, previously BS in Statistics & Computer Science @ UIUC
 
 Previous Experience:
 - Software Engineer Intern @ Google
